@@ -8,7 +8,7 @@
 
 # rlases — Portafolio
 
-Portafolio personal de Jhunier Hernandez Calderon ([@riassd](https://github.com/riassd)),
+Portafolio personal de Jhunier Hernandez Calderon ([@rlases](https://github.com/rlases)),
 construido con React + Vite y publicado en GitHub Pages bajo dominio propio.
 
 🔗 **https://rlases.dev/**
