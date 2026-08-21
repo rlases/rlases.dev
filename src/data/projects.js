@@ -16,8 +16,8 @@ export const featuredProject = {
     'Modo Juego (passthrough) manual o automático en pantalla completa',
     'Vibración/feedback háptico configurable',
   ],
-  repoUrl: 'https://github.com/riassd/controllernav',
-  releasesUrl: 'https://github.com/riassd/controllernav/releases',
+  repoUrl: 'https://github.com/rlases/controllernav',
+  releasesUrl: 'https://github.com/rlases/controllernav/releases',
   private: true,
 }
 
@@ -34,7 +34,7 @@ export const otherProjects = [
       'aprobación de órdenes de compra por correo con tokens de un solo uso por aprobador ' +
       '(turnos secuenciales, sin reutilización, salida siempre saneada contra XSS).',
     tech: ['JavaScript', 'Supabase / PostgreSQL', 'Vercel Serverless', 'Nodemailer', 'OpenRouter API'],
-    repoUrl: 'https://github.com/riassd/sinergy-inventario',
+    repoUrl: 'https://github.com/rlases/sinergy-inventario',
     private: true,
   },
   {
@@ -46,7 +46,7 @@ export const otherProjects = [
       'evaluadas con IA, seguimiento de entrenamiento y estudio, y noticias/precios cripto en COP, ' +
       'con reportes automáticos por WhatsApp y email.',
     tech: ['Python', 'FastAPI', 'Twilio API', 'SQLite', 'Pipeline de IA multi-proveedor (Groq/OpenRouter/Gemini…)'],
-    repoUrl: 'https://github.com/riassd/helperlas',
+    repoUrl: 'https://github.com/rlases/helperlas',
     private: true,
   },
   {
@@ -58,7 +58,7 @@ export const otherProjects = [
       'subtítulo sobre cualquier video (Crunchyroll, YouTube, cursos…), con múltiples motores de ' +
       'detección en cascada, y traducción completa de páginas web al estilo Linguist.',
     tech: ['JavaScript', 'Chrome Extensions (MV3)'],
-    repoUrl: 'https://github.com/riassd/doble-subtitulo-universal',
+    repoUrl: 'https://github.com/rlases/doble-subtitulo-universal',
     private: true,
   },
   {
@@ -70,8 +70,8 @@ export const otherProjects = [
       'sobre MongoDB, siguiendo el patrón MERN/MEAN.',
     tech: ['Angular', 'LoopBack 4', 'Node.js', 'TypeScript', 'MongoDB'],
     links: [
-      { label: 'Frontend', url: 'https://github.com/riassd/Website-FrontendMascotas-Mern' },
-      { label: 'Backend', url: 'https://github.com/riassd/Website-BackendMascotas-Mern' },
+      { label: 'Frontend', url: 'https://github.com/rlases/Website-FrontendMascotas-Mern' },
+      { label: 'Backend', url: 'https://github.com/rlases/Website-BackendMascotas-Mern' },
     ],
     private: false,
   },

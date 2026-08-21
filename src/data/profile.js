@@ -40,7 +40,7 @@ export const profile = {
     },
   ],
   links: {
-    github: 'https://github.com/riassd',
+    github: 'https://github.com/rlases',
     email: 'jhuniercalderon@gmail.com',
     linkedin: 'https://www.linkedin.com/in/jhunier-hernandez/',
   },
